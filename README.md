@@ -1,2 +1,2 @@
 # versioncontrol-practice
-This is my practicing part on version controls.
+This is my first repository on version controls.
